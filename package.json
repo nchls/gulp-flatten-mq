@@ -1,0 +1,19 @@
+{
+  "name": "gulp-flatten-mq",
+  "version": "0.1.0",
+  "description": "Flattens media queries",
+  "author": {
+    "name": "Ian Nicholas",
+    "email": "ian@nchls.com",
+    "url": "https://github.com/nchls"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "css": "^2.2.1",
+    "lodash": "^4.0.0",
+    "through2": "^2.0.0"
+  }
+}
